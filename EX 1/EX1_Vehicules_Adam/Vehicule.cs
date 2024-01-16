@@ -45,11 +45,11 @@ namespace EX1_Vehicules_Adam
             _prix = prix;
         }
 
-        public string Affiche()
+        public virtual string Affiche()
         {
-            string info = "le modele du véhicule : " + Modele + "La marque du véhicule : " + Marque + " la couleur du véhicule : " + Couleur + "son prix est de : " + Prix;
+            string info = "le modele du véhicule : " + _modele + "La marque du véhicule : " + _marque + " la couleur du véhicule : " + _couleur + "son prix est de : " + _prix;
             return info;
         }
     }
 }
-}
+
