@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX3_Forme_Adam/1.0.0": {
+        "runtime": {
+          "EX3_Forme_Adam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX3_Forme_Adam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

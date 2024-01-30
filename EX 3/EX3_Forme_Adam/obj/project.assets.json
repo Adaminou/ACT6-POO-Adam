@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\200537\\.nuget\\packages\\": {},
-    "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Carrefour\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\200537\\source\\repos\\EX3_Forme_Adam\\EX3_Forme_Adam\\EX3_Forme_Adam.csproj",
+      "projectUniqueName": "C:\\Users\\Carrefour\\Desktop\\xdx\\ACT6-POO-Adam\\EX3\\EX3_Forme_Adam\\EX3_Forme_Adam.csproj",
       "projectName": "EX3_Forme_Adam",
-      "projectPath": "C:\\Users\\200537\\source\\repos\\EX3_Forme_Adam\\EX3_Forme_Adam\\EX3_Forme_Adam.csproj",
-      "packagesPath": "C:\\Users\\200537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\200537\\source\\repos\\EX3_Forme_Adam\\EX3_Forme_Adam\\obj\\",
+      "projectPath": "C:\\Users\\Carrefour\\Desktop\\xdx\\ACT6-POO-Adam\\EX3\\EX3_Forme_Adam\\EX3_Forme_Adam.csproj",
+      "packagesPath": "C:\\Users\\Carrefour\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carrefour\\Desktop\\xdx\\ACT6-POO-Adam\\EX3\\EX3_Forme_Adam\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\200537\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Carrefour\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

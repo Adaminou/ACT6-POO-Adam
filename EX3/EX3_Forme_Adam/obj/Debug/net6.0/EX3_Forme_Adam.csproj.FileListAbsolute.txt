@@ -1,4 +1,0 @@
-C:\Users\200537\source\repos\EX3_Forme_Adam\EX3_Forme_Adam\obj\Debug\net6.0\EX3_Forme_Adam.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\200537\source\repos\EX3_Forme_Adam\EX3_Forme_Adam\obj\Debug\net6.0\EX3_Forme_Adam.AssemblyInfoInputs.cache
-C:\Users\200537\source\repos\EX3_Forme_Adam\EX3_Forme_Adam\obj\Debug\net6.0\EX3_Forme_Adam.AssemblyInfo.cs
-C:\Users\200537\source\repos\EX3_Forme_Adam\EX3_Forme_Adam\obj\Debug\net6.0\EX3_Forme_Adam.csproj.CoreCompileInputs.cache

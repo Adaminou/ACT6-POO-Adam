@@ -26,7 +26,7 @@ namespace EX3_Forme_Adam
 
         public override string Affiche()
         {
-            string info = "Côté" + _cote;
+            string info = "Côté" + _cote + "Couleur" + _couleur;
             return info;
         }
 
