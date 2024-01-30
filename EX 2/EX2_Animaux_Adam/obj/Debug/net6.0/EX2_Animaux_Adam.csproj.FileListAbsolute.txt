@@ -1,0 +1,14 @@
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\bin\Debug\net6.0\EX2_Animaux_Adam.exe
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\bin\Debug\net6.0\EX2_Animaux_Adam.deps.json
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\bin\Debug\net6.0\EX2_Animaux_Adam.runtimeconfig.json
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\bin\Debug\net6.0\EX2_Animaux_Adam.dll
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\bin\Debug\net6.0\EX2_Animaux_Adam.pdb
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.AssemblyInfoInputs.cache
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.AssemblyInfo.cs
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.csproj.CoreCompileInputs.cache
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.dll
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\refint\EX2_Animaux_Adam.dll
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.pdb
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\EX2_Animaux_Adam.genruntimeconfig.cache
+C:\Users\200537\Desktop\poo\ACT6-POO-Adam\EX 2\EX2_Animaux_Adam\obj\Debug\net6.0\ref\EX2_Animaux_Adam.dll

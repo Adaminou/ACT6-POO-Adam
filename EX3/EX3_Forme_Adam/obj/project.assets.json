@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\200537\\Desktop\\poo\\ACT6-POO-Adam\\EX 2\\EX2_Animaux_Adam\\EX2_Animaux_Adam.csproj",
-      "projectName": "EX2_Animaux_Adam",
-      "projectPath": "C:\\Users\\200537\\Desktop\\poo\\ACT6-POO-Adam\\EX 2\\EX2_Animaux_Adam\\EX2_Animaux_Adam.csproj",
+      "projectUniqueName": "C:\\Users\\200537\\source\\repos\\EX3_Forme_Adam\\EX3_Forme_Adam\\EX3_Forme_Adam.csproj",
+      "projectName": "EX3_Forme_Adam",
+      "projectPath": "C:\\Users\\200537\\source\\repos\\EX3_Forme_Adam\\EX3_Forme_Adam\\EX3_Forme_Adam.csproj",
       "packagesPath": "C:\\Users\\200537\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\200537\\Desktop\\poo\\ACT6-POO-Adam\\EX 2\\EX2_Animaux_Adam\\obj\\",
+      "outputPath": "C:\\Users\\200537\\source\\repos\\EX3_Forme_Adam\\EX3_Forme_Adam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"

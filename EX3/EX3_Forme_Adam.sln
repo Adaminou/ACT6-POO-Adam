@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX3_Forme_Adam", "EX3_Forme_Adam\EX3_Forme_Adam.csproj", "{BF4B43D9-D29B-4BBC-97F2-D5FC7522354D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4B43D9-D29B-4BBC-97F2-D5FC7522354D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4B43D9-D29B-4BBC-97F2-D5FC7522354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4B43D9-D29B-4BBC-97F2-D5FC7522354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4B43D9-D29B-4BBC-97F2-D5FC7522354D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28B7BD1-15E3-49A4-9396-FC6C0D7FCF3A}
+	EndGlobalSection
+EndGlobal

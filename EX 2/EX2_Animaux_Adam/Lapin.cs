@@ -25,7 +25,7 @@ namespace EX2_Animaux_Adam
 
         public override string Affiche()
         {
-            string info = "Taille de l'oreille" + _tailleOreille;
+            string info = "Taille de l'oreille" + _tailleOreille + "Nom" + _nom + "Date de naissance" + _dateNaissance + "Taille" + _taille + "Animal de concours ou pas" + _animalConcours + "Numéro de puce" + _numPuce;
             return info;
         }
         public string Bondir()
